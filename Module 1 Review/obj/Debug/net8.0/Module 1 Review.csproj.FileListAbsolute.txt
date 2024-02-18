@@ -1,0 +1,14 @@
+C:\Users\Jayson\OneDrive\Desktop\repos\Module 1 Review\Module 1 Review\bin\Debug\net8.0\Module 1 Review.exe
+C:\Users\Jayson\OneDrive\Desktop\repos\Module 1 Review\Module 1 Review\bin\Debug\net8.0\Module 1 Review.deps.json
+C:\Users\Jayson\OneDrive\Desktop\repos\Module 1 Review\Module 1 Review\bin\Debug\net8.0\Module 1 Review.runtimeconfig.json
+C:\Users\Jayson\OneDrive\Desktop\repos\Module 1 Review\Module 1 Review\bin\Debug\net8.0\Module 1 Review.dll
+C:\Users\Jayson\OneDrive\Desktop\repos\Module 1 Review\Module 1 Review\bin\Debug\net8.0\Module 1 Review.pdb
+C:\Users\Jayson\OneDrive\Desktop\repos\Module 1 Review\Module 1 Review\obj\Debug\net8.0\Module 1 Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jayson\OneDrive\Desktop\repos\Module 1 Review\Module 1 Review\obj\Debug\net8.0\Module 1 Review.AssemblyInfoInputs.cache
+C:\Users\Jayson\OneDrive\Desktop\repos\Module 1 Review\Module 1 Review\obj\Debug\net8.0\Module 1 Review.AssemblyInfo.cs
+C:\Users\Jayson\OneDrive\Desktop\repos\Module 1 Review\Module 1 Review\obj\Debug\net8.0\Module 1 Review.csproj.CoreCompileInputs.cache
+C:\Users\Jayson\OneDrive\Desktop\repos\Module 1 Review\Module 1 Review\obj\Debug\net8.0\Module 1 Review.dll
+C:\Users\Jayson\OneDrive\Desktop\repos\Module 1 Review\Module 1 Review\obj\Debug\net8.0\refint\Module 1 Review.dll
+C:\Users\Jayson\OneDrive\Desktop\repos\Module 1 Review\Module 1 Review\obj\Debug\net8.0\Module 1 Review.pdb
+C:\Users\Jayson\OneDrive\Desktop\repos\Module 1 Review\Module 1 Review\obj\Debug\net8.0\Module 1 Review.genruntimeconfig.cache
+C:\Users\Jayson\OneDrive\Desktop\repos\Module 1 Review\Module 1 Review\obj\Debug\net8.0\ref\Module 1 Review.dll

@@ -4,22 +4,20 @@
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter the length of the rectangle: ");
-            double length = double.Parse(Console.ReadLine());
+            Console.Write("Enter the side length of the square: ");
+            double side = double.Parse(Console.ReadLine());
 
-            Console.Write("Enter the width of the rectangle: ");
-            double width = double.Parse(Console.ReadLine());
 
             // Call the method to calculate the area
-            double area = CalculateRectangleArea(length, width);
+            double area = CalculateSquareArea(side);
 
             // Display the result
-            Console.WriteLine($"The area of the rectangle with length {length} and width {width} is: {area}");
+            Console.WriteLine($"The area of the square with side length {side} is : {area}");
         }
 
-        static double CalculateRectangleArea(double length, double width)
+        static double CalculateSquareArea(double side)
         {
-            return length * width;
+            return side * side;
         }
     }
 }

@@ -12,3 +12,4 @@ C:\Users\Jayson\OneDrive\Desktop\repos\Module 1 Review\Module 1 Review\obj\Debug
 C:\Users\Jayson\OneDrive\Desktop\repos\Module 1 Review\Module 1 Review\obj\Debug\net8.0\Module 1 Review.pdb
 C:\Users\Jayson\OneDrive\Desktop\repos\Module 1 Review\Module 1 Review\obj\Debug\net8.0\Module 1 Review.genruntimeconfig.cache
 C:\Users\Jayson\OneDrive\Desktop\repos\Module 1 Review\Module 1 Review\obj\Debug\net8.0\ref\Module 1 Review.dll
+C:\Users\Jayson\OneDrive\Desktop\repos\Module 1 Review\Module 1 Review\obj\Debug\net8.0\Module 1 Review.sourcelink.json

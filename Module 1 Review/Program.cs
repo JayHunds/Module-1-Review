@@ -4,22 +4,22 @@
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter the base length of the triangle: ");
-            double baseLength = double.Parse(Console.ReadLine());
+            Console.Write("Enter the length of the rectangle: ");
+            double length = double.Parse(Console.ReadLine());
 
-            Console.Write("Enter the height of the triangle: ");
-            double height = double.Parse(Console.ReadLine());
+            Console.Write("Enter the width of the rectangle: ");
+            double width = double.Parse(Console.ReadLine());
 
             // Call the method to calculate the area
-            double area = CalculateTriangleArea(baseLength, height);
+            double area = CalculateRectangleArea(length, width);
 
             // Display the result
-            Console.WriteLine($"The area of the triangle with base length {baseLength} and height {height} is: {area}");
+            Console.WriteLine($"The area of the rectangle with length {length} and width {width} is: {area}");
         }
 
-        static double CalculateTriangleArea(double baseLength, double height)
+        static double CalculateRectangleArea(double length, double width)
         {
-            return 0.5 * baseLength * height;
+            return length * width;
         }
     }
 }
